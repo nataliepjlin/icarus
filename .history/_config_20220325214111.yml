@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: icarus
+title: Hexo
 subtitle: ''
 description: ''
 keywords:
@@ -104,4 +104,4 @@ theme: icarus
 deploy:
   type: git
   repo: git@github.com:nataliepjlin/icarus.git
-  branch: main
+  branch: master

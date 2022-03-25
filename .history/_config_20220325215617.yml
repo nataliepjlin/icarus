@@ -104,4 +104,4 @@ theme: icarus
 deploy:
   type: git
   repo: git@github.com:nataliepjlin/icarus.git
-  branch: main
+  branch: master

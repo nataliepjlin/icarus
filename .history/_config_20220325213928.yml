@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: icarus
+title: Hexo
 subtitle: ''
 description: ''
 keywords:
@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://github.com/nataliepjlin/icarus.git
+url: git@github.com:nataliepjlin/icarus.git
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -104,4 +104,4 @@ theme: icarus
 deploy:
   type: git
   repo: git@github.com:nataliepjlin/icarus.git
-  branch: main
+  branch: master
